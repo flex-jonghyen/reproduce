@@ -1,9 +1,0 @@
-{
-  "name": "@grapgrap/b",
-  "files": [
-    "index.js"
-  ],
-  "dependencies": {
-    "@grapgrap/a": "workspace:*"
-  }
-}
